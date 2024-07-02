@@ -1,0 +1,43 @@
+#hero{
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(../images/IMG.png) center no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.main{
+    color: #21E786;
+}
+.mainback{
+    background-color: #21E786;
+}
+.bttn{
+    border-color: #21E786;
+    border-width: 3px;
+}
+.c2{
+    background: url(../images/Step2.png);
+}
+.c3{
+    background: url(../images/Step3.png);
+}
+.c4{
+    background: url(../images/Step4.png);
+}
+.v{
+    color:#8d08ec;
+}
+.vback{
+    background-color: #8d08ec;
+}
+.vbrdr{
+    border-color: #8d08ec;
+    border-width: 3px;
+}
+h2{
+    text-shadow: 2px 2px 3px #21E786;
+    color: #8d08ec;
+}
+h1{
+    text-shadow: 2px 2px 3px #8d08ec;
+    color: #21E786;
+    
+}
